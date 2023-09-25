@@ -1,0 +1,18 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.ul{
+    display: flex;
+    gap: 2rem;
+}
+
+.ul a{
+    text-decoration: none;
+    color: cadetblue;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    text-decoration: underline;
+}
