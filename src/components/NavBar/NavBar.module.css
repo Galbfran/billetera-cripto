@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
+    border-bottom: 1px solid black;
 }
 
 .ul{
@@ -16,3 +17,4 @@
     border-radius: 1rem;
     text-decoration: underline;
 }
+

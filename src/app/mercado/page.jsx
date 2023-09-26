@@ -1,6 +1,10 @@
+import MercadoContainer from "@/components/MercadoContainer/MercadoContainer"
+
 const Mercado = () => {
     return(
-        <div>Mercado</div>
+        <section>
+            <MercadoContainer/>
+        </section>
     )
 }
 

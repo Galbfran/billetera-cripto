@@ -8,7 +8,7 @@ const SeccionInicio = () =>{
             <div className={style.contenido}>
                 <h2>Compra y Venta</h2>
                 <h3>Crypto al Instante</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam ad architecto perspiciatis assumenda cumque, necessitatibus tempora, molestias velit incidunt quidem possimus id iure voluptatem voluptatibus delectus, quod vitae quaerat commodi.</p>
+                <p className={style.text}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam ad architecto perspiciatis assumenda cumque, necessitatibus tempora, molestias velit incidunt quidem possimus id iure voluptatem voluptatibus delectus, quod vitae quaerat commodi.</p>
                 <Link href="/mercado">VER MERCADO</Link>
             </div>
             <div className={style.imagen}>
